@@ -1,4 +1,4 @@
-# schlauer_typ
+![logo](logo.png)
 
 This is a fork from [marcusmichaely/schlauertyp](https://github.com/marcusmichaely/schlauertyp)
 
