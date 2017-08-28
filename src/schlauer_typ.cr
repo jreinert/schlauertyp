@@ -2,9 +2,9 @@ require "json"
 require "http/server"
 require "xml"
 require "logger"
-require "./message_generator"
-require "./resources"
-require "./telegram_bot"
+require "./schlauer_typ/message_generator"
+require "./schlauer_typ/resources"
+require "./schlauer_typ/telegram_bot"
 require "kemal"
 
 module SchlauerTyp
